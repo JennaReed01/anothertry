@@ -1,5 +1,8 @@
-body {
-  background:url(punk.jpg);
+div {
+  width: 200px;
+  height: 200px;
+  display: block;
+  position: relative;
 }
 
 body::after {
