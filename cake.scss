@@ -1,6 +1,11 @@
+body {
+  background: #6BC8FF;
+}
+
 .cake {
   position: absolute;
-  top: 0;
+  top: 0
+    ;
   right: 0;
   bottom: 0;
   left: 0;
@@ -52,7 +57,7 @@
     right: 0;
     margin: 0;
     bottom: 0;
-    content: "22";
+    content: "28";
     font-family: "Open Sans";
     font-size: 3em;
     font-weight: bold;
@@ -60,5 +65,4 @@
     -webkit-text-stroke: 2px #fff;
     text-align: center;
   }
-/* Scss Document */
-
+}
