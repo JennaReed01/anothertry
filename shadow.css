@@ -192,7 +192,7 @@ body {
   width:182px;
   height:62px;
   margin:0 auto;
-  background:#eb7568;
+  background:#f5ed93;
   -webkit-transform:perspective(500px) rotate3d(1, 0, 0, 56deg);
   transform:perspective(500px) rotate3d(1, 0, 0, 56deg);
 }
@@ -367,7 +367,7 @@ body {
   height:100px;
   top:-91px;
   left:4px;
-  background:#e76056;
+  background:#d9d283;
   border-radius:0 0 3px 3px;
   -webkit-transform:perspective(700px) rotate3d(1, 0, 0, 34deg);
   transform:perspective(700px) rotate3d(1, 0, 0, 34deg);
@@ -381,7 +381,7 @@ body {
   top:68px;
   left:-4px;
   margin:0 auto;
-  background:#c45549;
+  background:#ce8dc53;
   border-radius:0 0 3px 3px;
 }
 
