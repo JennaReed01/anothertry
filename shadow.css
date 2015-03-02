@@ -192,7 +192,7 @@ body {
   width:182px;
   height:62px;
   margin:0 auto;
-  background:#f5ed93;
+  background:#eee113;
   -webkit-transform:perspective(500px) rotate3d(1, 0, 0, 56deg);
   transform:perspective(500px) rotate3d(1, 0, 0, 56deg);
 }
