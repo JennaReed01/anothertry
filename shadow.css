@@ -2,6 +2,18 @@ body {
   background:url(punk.jpg);
 }
 
+body::after {
+  content: "";
+  background: url(punk.jpg);
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
 #typewriter {
   position:relative;
   width:300px;
